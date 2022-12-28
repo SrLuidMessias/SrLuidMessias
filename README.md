@@ -9,7 +9,7 @@
 <h3 align="left">Social:</h3>
 
  <a href="https://www.linkedin.com/in/luid-messias-b01396228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "https://www.instagram.com/messias_magno_/"><img src="https://github.com/SrLuidMessias/SrLuidMessias/blob/main/insta.jpg" max-width="90px" width="50px" target="_blank"></a>
+ <a href = "https://www.instagram.com/messias_magno_/"><img src="https://github.com/SrLuidMessias/SrLuidMessias/blob/main/insta.jpg" max-width="30px" width="90px" target="_blank"></a>
 
 
 <div> 
