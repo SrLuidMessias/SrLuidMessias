@@ -1,4 +1,4 @@
-<img align="right" src="https://drive.google.com/drive/u/0/my-drive?lfhs=2" max-width="400px" width="400px" align="right">
+<img align="right" src="          " max-width="400px" width="400px" align="right">
 <h3 align="left"> Hello, I'm Luid Messias, welcome!</h3>
 <h4>💻 I'm software engineer student</h4> 
 - 🌱 I’m currently learning python
