@@ -1,8 +1,8 @@
 <img align="right" src="https://raw.githubusercontent.com/SrLuidMessias/SrLuidMessias/main/black.png.webp" max-width="400px" width="400px" align="right">
 <h3 align="left"> Hello, I'm Luid Messias, welcome!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
-<h4>💻 I'm software engineer student</h4> 
-- 🌱 I’m currently learning python
+<h4>💻 I'm Computer Scientist  Student</h4> 
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to expand my skills
 
 
